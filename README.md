@@ -1,4 +1,3 @@
-# backend-bloom
 
 # Backend Bloom
 
